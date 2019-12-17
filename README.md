@@ -1,5 +1,4 @@
 # Deep_Learning_Lab_Practical
-In this Repository I am going to upload my College Lab Practical work.
 
 # Practical-1 [6/Dec/2019]
 In this file there are some basic operations of string datatype and List and Dictionary data structures.
